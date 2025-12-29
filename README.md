@@ -50,6 +50,7 @@ happy-holidays-2026/
 ## Interactive Quiz
 
 The website includes a fun, interactive quiz that personalizes 2026 forecasts based on:
+
 - **12 Zodiac Signs** - Personalized astrological insights
 - **6 Goal Categories** - Career, Health, Learning, Relationships, Financial, Adventure
 - **4 Work Styles** - Team Player, Self-Starter, Leader, Creative Innovator
